@@ -1,5 +1,5 @@
 # hangman
-haha my first python project
+my first python project
 
 ->for now i just got 4 words in database
 ->i did this project to learn python syntax
